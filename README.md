@@ -51,8 +51,8 @@ To meet these requirements, the solution is broken down into the following compo
 
 ### Prerequisites
 
-- ● An Azure account with sufficient credits.
-- ● Access to an on-premises SQL Server database.
+- An Azure account with sufficient credits.
+- Access to an on-premises SQL Server database.
 
 ### Step 1: Azure Environment Setup
 
